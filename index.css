@@ -1,0 +1,28 @@
+body {
+ background-image: url("https://cdn.aitaikuji.com/media/catalog/product/cache/ec44b9a28c1467487a7a23cd726f1acf/0031991_ichiban-kuji-kirby-hat-studio-rare-prize-waddle-dee-hat-and-mustache-plush.jpeg");
+ background-color: #cccccc;
+font-family:arial;
+  color: tan;
+}
+#nav-bar{
+  display: flex;
+  flex-direction: row;
+  justify-content: center:
+    
+}
+
+#nav-list{
+  display: flex;  
+  width: 80%;
+  justify-content: space-between;
+}
+#nav-list li{
+  list-style-type: none;
+}
+#nav-list li a{
+  text-decoration: none;
+  color: tan;
+}
+#nav-list li a:hover{
+  border: 2px solid black;
+}
